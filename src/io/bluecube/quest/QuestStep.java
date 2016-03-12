@@ -1,6 +1,6 @@
 package io.bluecube.quest;
 
-public class QuestStep {
+public class QuestStep implements Trackable{
 	
 	
 }
